@@ -19,12 +19,19 @@ Similar to the Total Rides column, the highest number of drivers corresponds to 
 Following the pattern described above, the fares go from highest (urban = $ 39,854.38) to lowest (rural = $ 4,327.93). In this case, the value of total fares for the suburban areas is of $ 19,356.33, approximately half of the amount collected by the urban areas.
 
 * Average Fare per ride
+For the Average Fare per Ride the highest amount is $34.62 in the rural areas, suburban areas follow very closely with $30.97 as their average fare per ride and urban areas has the lowest amount with $24.53. It makes sense, that in urban areas people travel shorter distances and other transportation services are more accesible.
 
-* Avereage Fare per Driver
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+* Average Fare per Driver
+The average fare per driver in rural areas is $55.49, highest of all 3 types evaluated. Drivers in suburban and urban areas make an average fare of $39.50 and $16.57 in that order. 
 
-![Pyber_fare_summary](https://github.com/Li11iana/PyBer-Mat/blob/main/Analysis/PyBer_fare_summary.png)
+
+
+![Pyber_fare_summary](https://github.com/Li11iana/Pyber_Challenge/blob/main/Resources/Pyber_fare_summary.png)
 
 # Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results shown above the following recommendations were established:
+*
+*
+*
+
