@@ -39,3 +39,16 @@ Based on the results shown above the following recommendations were established:
 
 * All 3 types of area show a similarly lineal behavior as shown in the *PyBer* Fare Summary line chart, focusing in the most populated areas would provide the most significant increase in use of the *PyBer* app.
 
+# Conclusion 
+The disparities in ride patterns and earnings across urban, suburban, and rural areas highlight the unique dynamics at play in each community.
+
+The clear dominance of urban areas in terms of total rides and drivers indicates the importance of maintaining a strong presence in densely populated regions. Urban areas contribute significantly to PyBer's revenue, and efforts to keep the platform accessible and safe in these locations are vital.
+
+Suburban areas present an untapped potential for profit, with fewer rides generating a substantial amount. Marketing PyBer as a safe and convenient alternative in suburban areas could lead to increased success, particularly as suburban areas continue to grow.
+
+Rural areas, while having lower total rides and fares, exhibit a higher average fare per driver. This suggests a demand for multiple services from drivers in rural regions. Further analysis is recommended to identify peak demand times and explore opportunities for expanding services in these areas efficiently.
+
+The overall linear trend observed across all area types in the PyBer Fare Summary chart suggests a consistent growth pattern. Focusing on expanding services in the most populated areas aligns with this trend, likely resulting in a significant increase in PyBer app usage.
+
+In summary, PyBer should continue prioritizing urban areas while strategically expanding services in suburban and rural regions. These recommendations, grounded in data-driven insights, position PyBer for continued success and growth in the competitive ride-sharing market.
+
